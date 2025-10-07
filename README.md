@@ -1,1 +1,1 @@
-# Kunal-Project
+Vendor data fetching script for collaboration
